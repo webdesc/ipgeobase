@@ -1,4 +1,4 @@
-![CI](https://github.com/webdesc/ipgeobase/actions/workflows/main.yms/badge.svg)
+![CI](https://github.com/webdesc/ipgeobase/actions/workflows/main.yml/badge.svg)
 
 # Ipgeobase
 
