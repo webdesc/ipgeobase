@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = "Get data by IP-address"
   spec.description   = "Get data by IP-address"
   spec.homepage      = "https://github.com/webdesc/ipgeobase"
-  spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
+  spec.required_ruby_version = Gem::Requirement.new(">= 2.4")
 
   # spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/webdesc/ipgeobase"

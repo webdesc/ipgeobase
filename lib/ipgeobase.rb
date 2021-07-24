@@ -2,9 +2,10 @@
 
 require_relative "ipgeobase/version"
 require "addressable/uri"
-require 'net/http'
-require 'happymapper'
+require "net/http"
+require "happymapper"
 
+# module get metadata by IP
 module Ipgeobase
   class Error < StandardError; end
 

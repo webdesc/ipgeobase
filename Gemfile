@@ -11,8 +11,8 @@ gem "minitest", "~> 5.0"
 
 gem "rubocop", "~> 0.80"
 
-gem "nokogiri-happymapper"
 gem "addressable"
+gem "nokogiri-happymapper"
 
 group :test do
   gem "webmock"
